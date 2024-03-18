@@ -1,0 +1,11 @@
+1 Descomprimir archivo
+
+2 Abrir carpeta juego
+
+3 Abrir aplicacion Suvirval Shooter
+
+4 Controles W S A D para moverse, Boton Izquierdo raton para disparar y Giro del arma con el raton
+
+5 Para salir del juego ALT + F4
+
+
